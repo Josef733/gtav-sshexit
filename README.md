@@ -8,4 +8,4 @@ It disconnects you from the internet, once that is confirmed, it then terminates
 
 ## **How to set it up**
 Follow the intructions on how to find and add the ***name*** and ***ssid*** of your internet connection.
-Instructions document found inside the **instructions** folder.
+Instructions document found inside the **Instructions** folder.
