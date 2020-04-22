@@ -7,7 +7,7 @@
 @echo When GTA5 has been closed, unpause
 @timeout -1
 @echo Reconnecting to Internet...
-@netsh wlan connect name=Get-306F6C ssid=Get-306F6C
+@netsh wlan connect name=****
 @echo.
-@echo Reconnected, CMD will close in 5 seconds...
+@echo CMD will close in 5 seconds...
 @timeout 5 > NUL
